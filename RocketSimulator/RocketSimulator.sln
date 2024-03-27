@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketSimulator", "RocketSimulator\RocketSimulator.csproj", "{8372964B-B0BF-46E6-8C81-1BB344846084}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8372964B-B0BF-46E6-8C81-1BB344846084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8372964B-B0BF-46E6-8C81-1BB344846084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8372964B-B0BF-46E6-8C81-1BB344846084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8372964B-B0BF-46E6-8C81-1BB344846084}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {089E221E-5DDE-4377-96D1-AB4A22BF1970}
+	EndGlobalSection
+EndGlobal
